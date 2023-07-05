@@ -51,9 +51,9 @@ use pocketmine\command\{Command, CommandSender};
 use pocketmine\scheduler\Task;
 use pocketmine\scheduler\ClosureTask;
 
-use Laith98Dev\NoPVP\libs\jojoe77777\FormAPI\SimpleForm;
-use Laith98Dev\NoPVP\libs\jojoe77777\FormAPI\CustomForm;
-use Laith98Dev\NoPVP\libs\jojoe77777\FormAPI\ModalForm;
+use jojoe77777\FormAPI\SimpleForm;
+use jojoe77777\FormAPI\CustomForm;
+use jojoe77777\FormAPI\ModalForm;
 
 class Main extends PluginBase implements Listener 
 {
