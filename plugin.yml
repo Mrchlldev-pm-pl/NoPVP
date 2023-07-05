@@ -1,9 +1,9 @@
 name: NoPVP
-api: [4.0.0]
+api: [5.0.0]
 main: Laith98Dev\NoPVP\Main
 author: Laith98Dev
 website: https://github.com/Laith98Dev
-version: 1.0.2
+version: 1.0.5+dev
 
 commands:
   nopvp:
